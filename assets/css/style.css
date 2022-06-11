@@ -1,18 +1,20 @@
+/*universal Selector*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/*Background color for the body*/
 body {
     background-color: #d9dcd6;
 }
-
+/*Group of selector using same color*/
 header, a, p, .optimization-reputation-marketing, .lead-brand-cost {
     color: #ffffff;
 }
 
-/* Header selector */
+/* Header section */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -77,7 +79,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/*Combined class inside the class content. all articles use same attributes*/
 .optimization-reputation-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -85,11 +87,11 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
 }
-
+/*Class content - All images use same attributes*/
 .optimization-reputation-marketing img {
 max-height: 200px;
 }
-
+/*Class content - All h2 use same attributes*/
 .optimization-reputation-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -107,16 +109,16 @@ max-height: 200px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/*Combined article classes inside the class benefits. they used same attributes */
 .lead-brand-cost {
     margin-bottom: 32px;
 }
-
+/*Same attribute used for h3*/
 .lead-brand-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/*Same attribute used for img*/
 .lead-brand-cost img {
     display: block;
     margin: 10px auto;
