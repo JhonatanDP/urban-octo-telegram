@@ -51,6 +51,7 @@ a {
 p {
     font-size: 16px;
 }
+/*Section header ends*/
 
     /*Background session*/
 .hero {
@@ -62,7 +63,7 @@ p {
     background-position: center;
 }
 
-/*Section class content*/
+/*Section class content Begin*/
 
 .float-left {
     float: left;
@@ -96,8 +97,9 @@ max-height: 200px;
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* Section Class Content End*/
 
-/*Section Class Benefits*/
+/*Section Class Benefits Begin*/
 
 .benefits {
     margin-right: 20px;
@@ -125,7 +127,7 @@ max-height: 200px;
     max-width: 150px;
 }
 
-/*Section Class Content */
+/*End Section Class Content */
 
 /*Footer page*/
 footer {
