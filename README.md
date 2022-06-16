@@ -6,10 +6,10 @@ Project live web page: https://jhonatandp.github.io/run-buddy/
 
 ## Problems.
 
- 1 - The website code was not specify, too many div.
- 2 - Some CSS rules were repetitive.
+1. - The website code was not specify, too many div.
+2. - Some CSS rules were repetitive.
  
- ### Screenshot of parts in the starter code.
+ ### Screenshot of parts in the starter code for the html and css.
  
 
 Title of the page changed to Horiseon
