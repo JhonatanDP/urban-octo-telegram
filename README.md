@@ -27,9 +27,15 @@ Project live web page: https://jhonatandp.github.io/run-buddy/
 
 ![ALT-attributes](https://user-images.githubusercontent.com/106892660/174126418-55db720b-d237-4a8b-8aa2-2127ff93c8fe.png)
 
-Added id attribute to the missing element.
+- Added id attribute to the missing element.
 
-div class footer changed to footer tag.
+- div class footer changed to footer tag.
+
+### Before
+![div-footer](https://user-images.githubusercontent.com/106892660/174127023-aef0d62c-238f-4cc0-a2b4-285ea5fd9b96.png)
+### After
+![footer](https://user-images.githubusercontent.com/106892660/174127096-97f2d16d-69fe-41f5-9d66-fd4d36fd03ef.png)
+
 
 Combine article classes because they used same attribute in the CSS file.   
 
