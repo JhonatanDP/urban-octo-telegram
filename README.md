@@ -13,13 +13,19 @@ Project live web page: https://jhonatandp.github.io/run-buddy/
  
  ![starter-code](https://user-images.githubusercontent.com/106892660/174122421-04d3f4e4-c1aa-44a0-93e4-f2c1fb94eca3.png)
 
-Title of the page changed to Horiseon
+## Changed to HTML Code
 
-Html code divided by group/Sections
+- Title of the page changed to Horiseon.
 
-div tag changed for the corresponding element: header, nav, article,
+- Html code divided by group/Sections.
 
-Added ALT attribute and description for images requirement.
+- Div tag changed for the corresponding element: header, nav, article, etc.
+
+![tag-name-changed](https://user-images.githubusercontent.com/106892660/174125438-56feeb8d-4f95-4c52-9d4c-d2fa83ea8bb1.png)
+
+- Added ALT attribute and description for images requirement.
+
+![ALT-attributes](https://user-images.githubusercontent.com/106892660/174126418-55db720b-d237-4a8b-8aa2-2127ff93c8fe.png)
 
 Added id attribute to the missing element.
 
