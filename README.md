@@ -1,10 +1,16 @@
 # Refactoring a web page to meet accessibility standards and optimized it for search engines.
 
-The website code was not specify, too many div.
-Some CSS rules were repetitive.
+Project Repository address: https://github.com/JhonatanDP/urban-octo-telegram
 
-What was done.
-HTML Code
+Project live web page: https://jhonatandp.github.io/run-buddy/
+
+## Problems.
+
+ 1 - The website code was not specify, too many div.
+ 2 - Some CSS rules were repetitive.
+ 
+ ### Screenshot of parts in the starter code.
+ 
 
 Title of the page changed to Horiseon
 
