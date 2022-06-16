@@ -11,6 +11,7 @@ Project live web page: https://jhonatandp.github.io/run-buddy/
  
  ### Screenshot of parts in the starter code for the html and css.
  
+ ![starter-code](https://user-images.githubusercontent.com/106892660/174122421-04d3f4e4-c1aa-44a0-93e4-f2c1fb94eca3.png)
 
 Title of the page changed to Horiseon
 
