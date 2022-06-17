@@ -4,6 +4,12 @@ Project Repository address: https://github.com/JhonatanDP/urban-octo-telegram
 
 Project live web page: https://jhonatandp.github.io/run-buddy/
 
+##Full Page
+
+![full-page](https://user-images.githubusercontent.com/106892660/174201268-d0da978f-6d8e-4856-b70a-a62b16d1a3dd.png)
+
+
+
 ## Problems.
 
 1. - The website code was not specify, too many div.
